@@ -3,7 +3,7 @@
 var repo_site = "https://cdn.jsdelivr.net/gh/kywch/jsPsych-in-Qualtrics/flanker/";
 
 /* experiment parameters */
-var reps_per_trial_type = 50;
+var reps_per_trial_type = 1;
 
 /*set up welcome block*/
 var welcome = {
