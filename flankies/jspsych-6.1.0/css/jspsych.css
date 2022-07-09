@@ -29,9 +29,9 @@
    max-width: 95%; /* this is mainly an IE 10-11 fix */
    text-align: center;
    margin: auto; /* this is for overflowing content */
-  width: 100%;
-  text-align: center;
-  margin-top: 20%;
+  width: 100% !important;
+  text-align: center !important;
+  margin-top: 20% !important;
  }
 
  .jspsych-top {
