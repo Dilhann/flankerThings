@@ -23,15 +23,15 @@
    display: flex;
    margin: auto;
    flex: 1 1 100%;
-   width: 100%;
-  text-align:center;
-  margin-top:20%;
  }
 
  .jspsych-content {
    max-width: 95%; /* this is mainly an IE 10-11 fix */
    text-align: center;
    margin: auto; /* this is for overflowing content */
+  width: 100%;
+  text-align: center;
+  margin-top: 20%;
  }
 
  .jspsych-top {
